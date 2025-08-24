@@ -1,0 +1,43 @@
+# Compiled source files
+*.out
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug / Release folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bin/
+out/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mac / Linux system files
+.DS_Store
+*.swp
+*.swo
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+desktop.ini
