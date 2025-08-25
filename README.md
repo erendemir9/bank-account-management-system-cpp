@@ -135,3 +135,10 @@ Welcome to the Bank Account Management System
 - File I/O for saving and loading accounts
 - Extended interest rate configurations
 - More advanced error handling and input validation
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for details.
